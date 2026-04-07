@@ -1,6 +1,6 @@
 # 集團碳足跡平台
 
-> 基於 C# .NET 與 Python 的碳盤查平台，整合 多數據來源、AI OCR 辨識與 智慧客服。
+> 基於 C# .NET 、 Python 、 Angular 的碳盤查平台，整合 多數據來源、AI OCR 辨識與 智慧客服。
 
 ## 系統架構圖 
 ```mermaid
