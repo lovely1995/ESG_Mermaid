@@ -2,7 +2,7 @@
 
 > 基於 C# .NET 與 Python 的碳盤查平台，整合 AI OCR 辨識與 智慧客服。
 
-## 系統架構圖 (System Architecture)
+## 系統架構圖 
 ```mermaid
 graph TD
     subgraph Layer3 [展示]
