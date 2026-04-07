@@ -1,4 +1,4 @@
-# 專案名稱 (e.g., CarbonVision AI)
+# 集團碳足跡平台
 
 > 基於 C# .NET 與 Python 的碳盤查平台，整合 AI OCR 辨識與 智慧客服。
 
