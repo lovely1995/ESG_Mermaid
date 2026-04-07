@@ -1,4 +1,5 @@
 # ESG_Mermaid
+```mermaid
 graph TD
     subgraph Layer3 [展示]
         A1[Angular 數位看板]
@@ -35,3 +36,4 @@ graph TD
     B4 --> A5
     B2 --> A3
     B2 --> A4
+    ```
